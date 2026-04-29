@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "Erste Version",
+  "pub_date": "2026-04-29T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "WIRD_AUTOMATISCH_GENERIERT",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.0.0/Autohaus-Inventur_1.0.0_x64-setup.exe"
+    }
+  }
+}
