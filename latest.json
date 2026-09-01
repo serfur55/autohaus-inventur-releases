@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.3",
-  "notes": "- update repariert",
-  "pub_date": "2026-04-29T18:21:54Z",
+  "version": "v1.0.4",
+  "notes": "- Login und Lizenzsystem (Firmenkonto, Testlizenz, Offline-Nutzung bis 7 Tage)\n- Cloud-Sicherung der Datenbank und Fotos (automatisch beim Start und alle 30 Minuten)\n- Kaufvertrag / zugleich Rechnung: Klauseln pro Beleg, Beleg-Footer mit Bankdaten und Gerichtsstand, Logo-Upload\n- Belege zur Rechnung hinterlegen (Ausweiskopie, unterschriebener Kaufvertrag)\n- Vorgaben Steuerberater: automatische Kundennummern ab 30000 (DATEV-Debitor), SKR-Konten, Neufahrzeug-EU-Fall, Nachweis-Checkliste bei steuerfreien Verkaeufen\n- Leistung (PS/kW) wird nicht mehr auf Rechnung und Kaufvertrag gedruckt\n- Standzeit laeuft ab dem Einkaufsdatum statt ab dem Anlegen; Bestandsfahrzeuge werden automatisch korrigiert\n- Standzeit bis Verkauf in der Auswertung",
+  "pub_date": "2026-09-01T17:07:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUpXUFRLTUV3TlUzQmdpRTBKZjZIZG1oZ2RQWG1Zd1ZJVHQrS2FuNkJoUVNqaFdUVTRWVllLSzA4MlJBRk5PaGkxNXlvOHVjMWFhRFFoRmkrTTluVkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDg2OTE0CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4wLjNfeDY0LXNldHVwLmV4ZQpXSXlDRlhiK2V4cTVOcDhES0hpYXBaeVhLRHgxb1ZoUkE2VVZ5M2xGMzJCdTR0aUduY29JVi83REhid1U1QUZPcTVTcThHU3FRRDVwMWlZTXFybFJBUT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.0.3/Autohaus.Inventur_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUhtTkE0cmJoVzlLQmNuY01CZ3ZJSWsvdXladlBudktwN0VLZWU5ckhMTEhZaXhudmxZOWxpUzAxUjU2RWpwVFB0c2Nzcis4SWNCb2N4ek5xK1pMNndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjgyNDA1CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4wLjRfeDY0LXNldHVwLmV4ZQoxRnJSS3dIVi93TFUzVmU5TTJYSXliUXQ5ckVSYXJXZlRUMHFOQnRyYW9yb0hOcE9uRDlwazV4dlBJV0g3VnZxV2ZobDNIQng1NEhvK0lycHVvT1NBQT09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.0.4/Autohaus.Inventur_1.0.4_x64-setup.exe"
     }
   }
 }
