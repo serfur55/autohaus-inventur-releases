@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.0",
-  "notes": "- Zentrale Cloud-Datenbank: eigener Server pro Autohaus, alle Arbeitsplaetze sehen dieselben Daten\n- Anmeldung mit Kundenkuerzel, Passwort selbst festlegen (\"Passwort vergessen?\")\n- Neuer Bereich Angebote & Auftraege (Angebot, Kostenvoranschlag, Auftragsbestaetigung -> Rechnung)\n- Kaufvertrag getrennt von der Rechnung: Vertrag mit Klauseln, Anzahlung und Unterschriften drucken, Rechnung spaeter per Klick (Nummernkreis KAUF-)\n- Demo-Modus zum Ausprobieren ohne Anmeldung\n- Neues Erscheinungsbild: Firmenname in der Seitenleiste, Bereich \"Ueber die Software\" mit Kontakt zu SKO IT Solutions\n- Viele Verbesserungen an Rechnungen, DATEV-Export und E-Rechnung",
-  "pub_date": "2026-09-30T10:48:51Z",
+  "version": "v1.1.1",
+  "notes": "- Rechnungen, Angebote & Auftraege, Kunden: Die kleinen Symbol-Knoepfe rechts sind jetzt beschriftet (Drucken, Belege, Bearbeiten, Fertigstellen, Als bezahlt, Stornieren ...)\n- Neues Fahrzeug: Das Baujahr aus der Fahrgestellnummer wird nicht mehr uebernommen - die Erstzulassung tragen Sie selbst aus den Fahrzeugpapieren ein\n- Anmeldung: Beispiel-Kuerzel auf dem Server-Bildschirm entfernt",
+  "pub_date": "2026-09-30T16:58:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUxRSWdEdHZyYUJJbVFzTkVnL3ZDbnEzb0RzTjdETlE1RThtZFRqVWx4TG5LdzNaZ2pJRFY4UjhCM0VvWFRKUjl0N3FwZml3Z2FFMXNBclRCcjc5WXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzY1MzMxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjBfeDY0LXNldHVwLmV4ZQpCV3FUbDF5QlppaWRJbEVhaEorSnJ1YnlLMFBMaWFUN3FYNUtCSmZJQ01mcFB0UUJBck5sUlVFbllNazF4UFBRS0gwQWJHelpKRmNRSHU0b2kvOGpCdz09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.0/Autohaus.Inventur_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUlQVW1MbjdQaU56MWdpcFh1b3JLdmlJTjFFYzJFdFppZklYbkQ4bGRqR0xOSFp2bVZ0V29yUEhLRjF5d2NrVWtlNnRkbmNmZUZHZ2ZIb2Q0bTV3SHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg3NTA4CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjFfeDY0LXNldHVwLmV4ZQo0NWV2dDN6a1F4NUhvTVRGYTMxajdyQXlFcWo1RGE1U1pZNXppS1lKS21NRFNVSFAzTnFrSTJldFc1VDV1Q3pNVnVVcGlFdWtqbUJJcVg3b29YeTZEQT09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.1/Autohaus.Inventur_1.1.1_x64-setup.exe"
     }
   }
 }
