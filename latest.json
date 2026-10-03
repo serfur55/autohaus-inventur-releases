@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.2",
-  "notes": "- Neuer Bereich \"Vertraege\": Kaufvertrag Privat, Kaufvertrag Gewerblich und Vermittlung (Datenblatt + Vereinbarung) als fertige Vordrucke\n- Fahrzeug aus dem Bestand und Kunden waehlen - Firma, Fahrzeugdaten, Preis, Ort und Datum werden automatisch eingetragen\n- Jedes Feld direkt auf dem Vertrag anklicken und aendern, danach drucken oder als PDF speichern",
-  "pub_date": "2026-10-02T16:17:48Z",
+  "version": "v1.1.3",
+  "notes": "- Belege per E-Mail: Angebote, Kostenvoranschlaege, Auftragsbestaetigungen, Kaufvertraege, Rechnungen und Vertraege mit dem Knopf \"Per E-Mail senden\" direkt als PDF an den Kunden schicken\n- Versand sofort startklar ueber den SKO-IT-Mailserver (Absendername = Ihre Firma, Antworten gehen an Ihre Firmen-E-Mail)\n- Optional eigenes Postfach: Einstellungen -> E-Mail-Versand, nur E-Mail-Adresse und Passwort eingeben",
+  "pub_date": "2026-10-03T08:51:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUNrQ28zaWdaWkJyeHNHOFZCS2F3RjF2aGlVZDdtc3FVSjgrcmdCQzUyZHJNQ3d2Z281L0RIaG80cDR3Z0xobnc0bVdzT2J0dGNtMFpSSWRROEVaRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU3ODY4CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjJfeDY0LXNldHVwLmV4ZQpOVThFcE5wL29pb2lzb2w1Z2pKRmpzc2pVMjZBZ3Q1TkFyTE5JTGprbUo5ZGFFUUp6bWFlVE41MXNGVnBVRDhDMi9GV090N3NSUmp2ZlNHak1FT0tBQT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.2/Autohaus.Inventur_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUE4T3BrWjBjK3FiZTF6VzBnLzFOZ3NMUWY5ZysxT0RTeC9la2ViajJlOC9nL0RZMVRDZmJNTjQ0UlY1SXgzNGFqMGFYamVqNTZQM1lQdjh5K1c4TXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDE3NDg3CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjNfeDY0LXNldHVwLmV4ZQpsdk5HWnJpMVp0Mmc4UU9SbVFPQytxQ3BQaHJXYjFzL3J5Zkd4anFmR1hGL2RLSGVQMko5VEhLQnliSStsZC8vM2tpNzl4V0ZTTjNZb05XT3JMNmRDZz09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.3/Autohaus.Inventur_1.1.3_x64-setup.exe"
     }
   }
 }
