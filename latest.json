@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.4",
-  "notes": "- Geldbetraege wie gewohnt eingeben: \"16.800,50\" oder \"16800,5\" mit Komma und Tausenderpunkten (Fahrzeug anlegen, Rechnung, Zusatzposten, Angebote). Beim Verlassen des Felds wird der Betrag sauber formatiert, ungueltige Eingaben werden rot markiert\n- Betraege zeigen Cent nur noch, wenn welche vorhanden sind (16.800 EUR statt 16.800,00 EUR; 16.800,50 EUR bleibt erhalten)",
-  "pub_date": "2026-10-05T09:51:11Z",
+  "version": "v1.1.5",
+  "notes": "- Einkaufsrechnung hochladen: Fahrzeug per KI aus Rechnung, Lieferschein, Kaufvertrag oder Fahrzeugschein anlegen",
+  "pub_date": "2026-10-12T16:39:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRU1NczVEOGp4c3FsY3l2VWhNTXhlQ1JWNTl0aHUybmxRckVVYlZ4L2YySW1ITllJMWJIRHRDRlBuTExwd01tUTlJRytBRmIrZXlpc01DSDhsNGJNNVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTkzODU0CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjRfeDY0LXNldHVwLmV4ZQplYjV6ejlVaE0xbmNQN1FtWU9kL1hPMzVhbHN1Mk11bzN3djNYeC9PUVVCM0wwNzZIVVdoMEFmdkI3Sk9ZcmJiQWZwTFBLaWhTTHhrTm1GeEtnMWJBQT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.4/Autohaus.Inventur_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUp4OE50dGVpa3FpakRoYW9IWWYwczNwSFM0a2lpRnFqZDlXRnltanJpZ3B0Wk5lY1JFNHNkYk5pRkJxWHRUc29GcW1Ta05OeEpoaExlMmREcU9vamdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODIzMTYxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjVfeDY0LXNldHVwLmV4ZQpIaHd6bVFITXRJbVBDU04rODdZTnJ2c1BQUzRtNXpCbVVzaE1tV1pHVklTZEIxMkkraXJJL3g1ZlpuamFXZysrVVNEd1VFYzVJZ3RVbXE0S3RKckRCQT09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.5/Autohaus.Inventur_1.1.5_x64-setup.exe"
     }
   }
 }
