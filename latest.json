@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.5",
-  "notes": "- Einkaufsrechnung hochladen: Fahrzeug per KI aus Rechnung, Lieferschein, Kaufvertrag oder Fahrzeugschein anlegen",
-  "pub_date": "2026-10-12T16:39:21Z",
+  "version": "v1.1.6",
+  "notes": "- Einkaufsrechnung hochladen: Fahrzeug per KI aus Rechnung, Lieferschein, Kaufvertrag oder Fahrzeugschein anlegen\n- Demo: Einkaufsrechnung hochladen dort mit Beispieldaten ausprobierbar",
+  "pub_date": "2026-10-12T17:14:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUp4OE50dGVpa3FpakRoYW9IWWYwczNwSFM0a2lpRnFqZDlXRnltanJpZ3B0Wk5lY1JFNHNkYk5pRkJxWHRUc29GcW1Ta05OeEpoaExlMmREcU9vamdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODIzMTYxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjVfeDY0LXNldHVwLmV4ZQpIaHd6bVFITXRJbVBDU04rODdZTnJ2c1BQUzRtNXpCbVVzaE1tV1pHVklTZEIxMkkraXJJL3g1ZlpuamFXZysrVVNEd1VFYzVJZ3RVbXE0S3RKckRCQT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.5/Autohaus.Inventur_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUhjYWlMaW51bUtHMWpINGdZWGV3K281bi9ZY3ovVko0OEF0VWttUWNNb2ZFU1A2MDdVNFQ5SFQydHlzRlUrRy9DRG82RWNYOVY2QXV6SnpobHVPT0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI1MjU0CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjZfeDY0LXNldHVwLmV4ZQp5NVVUbkxQQmV6L2pJTDBqU3ZqdXpnZVlxMG0yWGZjcklpb29ZVDR5RTIreU5FNWlUbjJlZEtUalJ4aTJQc3ZpWHczQWovd1JYK2hxaGZaeEY5WUVDdz09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.6/Autohaus.Inventur_1.1.6_x64-setup.exe"
     }
   }
 }
