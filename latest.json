@@ -1,11 +1,11 @@
 {
-  "version": "v1.1.7",
-  "notes": "- Fahrzeug aufnehmen: Auswahl zwischen Einkaufsbeleg hochladen (KI) und von Hand anlegen\n- Demo: Einkaufsbeleg hochladen erkennt echte Belege per KI (über den Demo-Server von SKO IT)",
-  "pub_date": "2026-10-12T17:37:44Z",
+  "version": "v1.1.8",
+  "notes": "- Beleg-Erkennung: Digitale PDFs werden exakt aus dem Dokumenttext gelesen (FIN, km, Erstzulassung, Preise, HSN/TSN); Scans und Fotos weiter per KI\n- Beleg-Erkennung lernt je Lieferant dazu: wiederkehrende Belege werden nach wenigen Bestätigungen ohne KI erkannt\n- Prüfansicht zeigt je Feld, woher der Wert stammt (aus Text, Vorlage, KI, prüfen)\n- Bei unsicheren Scans holt ein stärkeres KI-Modell eine zweite Meinung",
+  "pub_date": "2026-10-13T14:10:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUcxWFpFSUxxYlZRbW45MXhYM2lIQ2tNdTVBUXh2Z1BHSFVFN09oT3AyU1kvanRnNzBvV003MSt6aWhNVHFpSTRDZnNyUml6a2hKREFMeHB5N2ZiVXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI2NjY0CWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjdfeDY0LXNldHVwLmV4ZQpIM0NzdzNsS3FlejkyWnRncGp3aXpZdFFQcWhweWNyNWhrZWlRazB5blJ0Vkg0MDZ4b0RGYldjaFYrUjJEVEMwMVYvZXN2dEo1TnZjV09haVhxRzNDUT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.7/Autohaus.Inventur_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUw1QkFWT0syV0NLck45bnlQU0lIQUlBSURGRExrbEt5dGp1bklKamN1dXpwRVpRYjFOeld1ZklrYUJoeE5pd0w0NmpjTXFuUjVTSFg5aklidHVub3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTAwNTkyCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4xLjhfeDY0LXNldHVwLmV4ZQpHQTB0WE9wUHh1eTlKdDJzKzUyQ1ZRYnlRS0J0eXdPLzNhRkR5UmY1QjhsUnJ4SUt4NlVYOXFrZ3NHc0NOZG9LS1NZbGdwNjBmS2NnWjNjeVl2S3FEZz09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.1.8/Autohaus.Inventur_1.1.8_x64-setup.exe"
     }
   }
 }
