@@ -1,11 +1,11 @@
 {
-  "version": "v1.2.0",
-  "notes": "- Benutzerverwaltung: Inhaber und Administratoren laden Mitarbeiter per E-Mail ein (Rollen Inhaber / Administrator / Mitarbeiter, Passwort setzt jeder selbst über den Link in der Mail)\n- Stornieren nur noch mit Begründung – der Grund steht auf der Stornorechnung, in der Liste und im Export für den Steuerberater; bezahlte Rechnungen werden samt Zahlung zurückgebucht\n- Fertigstellen verlangt ab 250 € einen Rechnungsempfänger; Warnung bei Barzahlung ab 10.000 € (Geldwäschegesetz)\n- Fahrzeug-Ansicht (Fotos, Dokumente), Dokumente und alle Dialoge im einheitlichen Design; Hellmodus ist Standard\n- Langer Firmenname auf Rechnung und Angebot läuft nicht mehr in die Kontaktspalte\n- DATEV-Export: Buchungen als festgeschrieben gekennzeichnet\n",
-  "pub_date": "2026-10-14T22:20:06Z",
+  "version": "v1.3.0",
+  "notes": "- Briefe: freie Anschreiben auf dem eigenen Briefkopf (Zahlungserinnerung, Abholbenachrichtigung, Reservierungsbestätigung …) mit Vorlagen und Platzhaltern, drucken, als PDF oder per E-Mail senden\n- Briefkopf & Briefpapier: Logo-Position, Akzentfarbe, Zusatzzeile; eigenes Briefpapier als Bild hinterlegen oder vorgedrucktes Papier nutzen (Kopf/Fuß bleiben frei)\n- Standort: Firmensitz (Anmeldung) und tatsächlicher Verkaufsstandort getrennt – im Belegkopf steht wahlweise der Standort, der Sitz bleibt als Pflichtangabe in der Fußzeile\n- Server: Backups mit Platzschutz, Docker-Logrotation, wöchentliche Wartung mit Statusmail\n",
+  "pub_date": "2026-10-14T22:40:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUJYNndXaEYxTGYrOHcwUXFvRG4wRFhzdWhnbHlVL1R2eDNwZGw3YXJlQ0xRQXNzV1RFbVc5MXpRUldMcGtwc3lDWVNBbGZGQmU4RjVzcW50Zmt0YVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE2MzgwCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4yLjBfeDY0LXNldHVwLmV4ZQpITjNHbnhGK0tWclhQc0RyeXVPU281R25CeUxic2VwMnZDTUdCWDRyaHZrVUtRRVJ4K1ZMb3EvRXA2RDVtaW9KVUJRd0dwcHBmNUg5c2tKYjhiWmREdz09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.2.0/Autohaus.Inventur_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRVA2L2lSLzhwZ1BlbDRPYVJibUx0ODZkWEZxQm1HZDZpNzIrT3dPM29sd0wxZVRqek9FUkRYRXhWeDlBRUtLYy8waFprWFVoMG9wWWszRktZYmljdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE3NjQxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4zLjBfeDY0LXNldHVwLmV4ZQoydDJmQnQ4UFk1bVYwdTh2WlRFaGtwWDZqNUN0TTlFakl0UTBsTm4weFdSa2NyYi9rc2ZYM0R3Z0h0V3M0WFEzNkE2OWJGa3hlbHlmR2wzVFhJaHNEZz09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.3.0/Autohaus.Inventur_1.3.0_x64-setup.exe"
     }
   }
 }
