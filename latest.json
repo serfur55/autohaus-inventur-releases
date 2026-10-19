@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.0",
-  "notes": "- Briefe: freie Anschreiben auf dem eigenen Briefkopf (Zahlungserinnerung, Abholbenachrichtigung, Reservierungsbestätigung …) mit Vorlagen und Platzhaltern, drucken, als PDF oder per E-Mail senden\n- Briefkopf & Briefpapier: Logo-Position, Akzentfarbe, Zusatzzeile; eigenes Briefpapier als Bild hinterlegen oder vorgedrucktes Papier nutzen (Kopf/Fuß bleiben frei)\n- Standort: Firmensitz (Anmeldung) und tatsächlicher Verkaufsstandort getrennt – im Belegkopf steht wahlweise der Standort, der Sitz bleibt als Pflichtangabe in der Fußzeile\n- Server: Backups mit Platzschutz, Docker-Logrotation, wöchentliche Wartung mit Statusmail\n",
-  "pub_date": "2026-10-14T22:40:47Z",
+  "version": "v1.4.0",
+  "notes": "- Online-Unterschrift: Kaufvertrag, Angebot, Rechnung u. a. per Link oder QR-Code aufs Handy des Kunden schicken, der Kunde unterschreibt mit dem Finger, das unterschriebene PDF mit Nachweisseite landet automatisch beim Fahrzeug bzw. der Rechnung\n- Einkaufsfinanzierung: je Fahrzeug festhalten, wie es bezahlt wurde (Bank, Raten beim Verkäufer, Leasing, Kommission) – mit Rate, Restschuld und Ablösung beim Verkauf\n- Beleg-Erkennung: genauer und schneller (meist 4–8 Sekunden), Kraftstoff/Getriebe/Marke werden einheitlich übernommen, Unklares wird als „prüfen\" markiert\n- Rechnungen: Rechnung ist Standardbeleg, Rechnungen auch ohne Fahrzeug (Zubehör, Teile, Leistungen)\n",
+  "pub_date": "2026-10-19T15:27:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRVA2L2lSLzhwZ1BlbDRPYVJibUx0ODZkWEZxQm1HZDZpNzIrT3dPM29sd0wxZVRqek9FUkRYRXhWeDlBRUtLYy8waFprWFVoMG9wWWszRktZYmljdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE3NjQxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS4zLjBfeDY0LXNldHVwLmV4ZQoydDJmQnQ4UFk1bVYwdTh2WlRFaGtwWDZqNUN0TTlFakl0UTBsTm4weFdSa2NyYi9rc2ZYM0R3Z0h0V3M0WFEzNkE2OWJGa3hlbHlmR2wzVFhJaHNEZz09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.3.0/Autohaus.Inventur_1.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUowdERDQm1DZ1lhaGZLU3pCSDRnVnNwTlZYSDNYcXN6TDBlNG43enMwaHFSNkZyTlhKRHRNaFJWNldzZk00cTIvMm9EaUZNb0NhOWRMRFNIa214V3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDIzNjUxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS40LjBfeDY0LXNldHVwLmV4ZQp0WS84cE1NS3VtRHZaeVYwZ2g1U0tUYjVWR2ZxZVViNDV3OTdQSk1JaTJnM2x6alJONWhxUGI2RXI0bEk5ZmdBMkpCVjNhQWRzTWlIdnBINzJRdDJDQT09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.4.0/Autohaus.Inventur_1.4.0_x64-setup.exe"
     }
   }
 }
