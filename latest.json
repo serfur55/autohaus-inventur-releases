@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.0",
-  "notes": "- Nur noch ein Kaufvertrag: Der Kaufvertrag unter „Angebote & Aufträge“ wird jetzt als Formular-Vordruck (wie bisher im Reiter „Verträge“) gedruckt, als PDF gespeichert, per E-Mail verschickt und online unterschrieben. Felder wie Ausweis-Nr., Unterlagen oder Schlüssel lassen sich direkt auf dem Vertrag ausfüllen (bis zur Unterschrift änderbar). Der Reiter „Verträge“ führt zu den Kaufverträgen und behält die Vermittlung.\n- „Als PDF speichern“ für Angebote, Kostenvoranschläge, Auftragsbestätigungen, Kaufverträge und Vermittlung.\n- Angebote, Kostenvoranschläge, Auftragsbestätigungen und Kaufverträge lassen sich auch fertig löschen, solange keine Rechnung daraus entstanden ist. Eine Kopie bleibt im Archiv.\n- Fahrzeug > Dokumente: Dokumenttyp beim Hochladen (Einkaufsrechnung, Kaufvertrag Einkauf, Einfuhr/Zoll, Zahlungsbeleg, Papiere). Hinweis, wenn der Einkaufsbeleg fehlt.\n- Export für den Steuerberater: neuer Ordner „Einkauf“ mit den Einkaufsbelegen je Fahrzeug (Einkaufsdatum im Zeitraum) und FEHLENDE_BELEGE.txt. Belegdateien tragen den Typ im Namen.\n- Rechnung > Belege bei steuerfreien Verkäufen: Schritt-für-Schritt-Anleitung je Fall (EU-Firma, EU-Neufahrzeug privat, Ausfuhr), Datei je Nachweis hochladen (hakt automatisch ab), Gelangensbestätigung als zweisprachige Vorlage (DE/EN).\n- Rechnung korrigieren: Knopf „Korrigieren“ storniert mit Grund und öffnet sofort eine neue Rechnung mit allen Daten als Entwurf.\n- Lizenzverwaltung: Rollen (Administrator/Mitarbeiter), Sperren/Freigeben; alte Rolle „user“ wird bereinigt.\n",
-  "pub_date": "2026-10-23T08:41:26Z",
+  "version": "v1.7.0",
+  "notes": "- Fahrzeug bearbeiten: Knopf „Bearbeiten“ im Fahrzeug ändert Marke, Modell, Variante, FIN, EZ, km, Leistung, Kraftstoff, Getriebe, Farben, Vorbesitzer, HU, Einkauf und Preise. FIN jetzt änderbar (z. B. Platzhalter „MOBILE-…“ aus dem Import ersetzen), doppelte FIN wird abgelehnt.\n- Fahrzeug-Historie: Änderungen an den Stammdaten werden mit Benutzer und geänderten Feldern festgehalten, eine FIN-Änderung mit alter und neuer Nummer.\n",
+  "pub_date": "2026-10-23T15:44:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUJWN0p5SXJieXhnZXFlczVyUFFiWmxmbXJtYlk1amhMQVAycXJFam1HOHlUYWlIcTVRM1lxQTc5YjBIYzFIU0ZQd01MdXhuK1daWFFsWWwwYitzandBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ0ODcxCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS42LjBfeDY0LXNldHVwLmV4ZQpzcjFCMXVEbnhkaTJnWVlIOUlPUmFUMGliN0V6TEdiVXdVZ3NHTVluamhUVS8wbHJoYkE0TmM3SjhPQkk0eEVJeVNnK0Q5d2JLV0FDQ2VaNEhwRUFBUT09Cg==",
-      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.6.0/Autohaus.Inventur_1.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSekVTdXNEaUVwRUZhd1V4bHJnR3J4cHdMS0lDRTJFWFd3akhJbzhJQ0tpS0ZCWUZtam5LM2hYYVdEUTJ3cXZDSlg0QWhLb0FwcTl2UnJxUHZJaUlSaFdiUW1EalgvVHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcwMjcyCWZpbGU6QXV0b2hhdXMgSW52ZW50dXJfMS43LjBfeDY0LXNldHVwLmV4ZQpzQ2I1VzZRd1dpK1FTWnE1RkdhZ2xoM29oMlNvV1EzdFFKMDhKRlprSG5OSDBLdnA1VEFOa0Y1Um9VMXg5SlhsdnRlSURDQ0J5cnNQS0paYml1WGVEdz09Cg==",
+      "url": "https://github.com/serfur55/autohaus-inventur-releases/releases/download/v1.7.0/Autohaus.Inventur_1.7.0_x64-setup.exe"
     }
   }
 }
